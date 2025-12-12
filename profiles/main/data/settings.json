@@ -1,0 +1,39 @@
+{
+  "workbench.colorTheme": "Deep Blue",
+  "git.enableSmartCommit": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": null,
+  },
+  "AI.task.endSound": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "explorer.confirmDelete": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "[less]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "trae.notification.enableOffersAndPromotions": false,
+  "trae.notification.enableTipsAndSuggestions": false,
+  "trae.notification.enableAccountNotifications": false,
+  "trae.notification.enableFeedbackAndSurveys": false,
+  "editor.formatOnSave": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.format.enable": true,
+}
